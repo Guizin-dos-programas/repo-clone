@@ -1,2 +1,2 @@
-#Descriçao repo-clone localmente
+#Descriçao repo-clone
 
